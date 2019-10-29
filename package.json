@@ -89,7 +89,6 @@
     }
   },
   "dependencies": {
-    "js-helpers": "git+ssh://git@gitlab.com/arasharg/js-helpers.git"
   },
   "//": {
     "js-helpers": "git+ssh://git@gitlab.com/arasharg/js-helpers.git"
