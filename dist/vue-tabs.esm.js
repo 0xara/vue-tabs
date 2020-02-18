@@ -119,7 +119,7 @@ var script = {
                 self.scrollToId(id);
                 self.addClass($panelEl, 'in');
 
-                window.dispatchEvent(new Event('resize'));
+                window.dispatchEvent(new CustomEvent('resize'));
 
                 hash_applied = true;
             });
